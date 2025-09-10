@@ -1,0 +1,26 @@
+Index.html 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Notes by Abhi - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Notes by Abhi Logo" class="logo">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="notes.html">Notes</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section class="hero">
+        <h1>Welcome to Notes by Abhi</h1>
+        <p>Your destination for colorful, easy-to-understand student notes!</p>
+    </section>
+    <footer>
+        © 2025 Notes by Abhi | Learning Made Simple
+    </footer>
+</body>
+</html>

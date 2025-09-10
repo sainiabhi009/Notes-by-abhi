@@ -1,0 +1,31 @@
+Notes.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Notes by Abhi - Notes</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Notes by Abhi Logo" class="logo">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="notes.html">Notes</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section class="content">
+        <h1>Download Notes</h1>
+        <ul>
+            <li><a href="#">Class 10 Science Notes (PDF)</a></li>
+            <li><a href="#">Class 11 Accountancy Notes (PDF)</a></li>
+            <li><a href="#">Class 12 Economics Notes (PDF)</a></li>
+        </ul>
+    </section>
+    <footer>
+        © 2025 Notes by Abhi | Learning Made Simple
+    </footer>
+</body>
+</html>

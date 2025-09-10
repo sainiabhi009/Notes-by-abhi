@@ -1,0 +1,28 @@
+About.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Notes by Abhi - About</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Notes by Abhi Logo" class="logo">
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="notes.html">Notes</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section class="content">
+        <h1>About Notes by Abhi</h1>
+        <p>We help students by providing free and colorful notes for school subjects. Our aim is to make learning fun, easy, and accessible to everyone!</p>
+        <blockquote>“Education is the most powerful weapon which you can use to change the world.” – Nelson Mandela</blockquote>
+    </section>
+    <footer>
+        © 2025 Notes by Abhi | Learning Made Simple
+    </footer>
+</body>
+</html>
